@@ -8,6 +8,8 @@ QBasic的代码集合，大部分写于1995-2000年间。
 - Tools
     - LINE.BAS: 模仿Windows的变换线写的变换线屏保
     - CIH.BAS: 放到开机启动里，在CIH病毒发作那天给出提醒
+- Demo
+    - Menudemo.bas: 演示了如何开发一个标准的DOS样式的菜单
 
 ## Adapted works
 
@@ -18,7 +20,7 @@ QBasic的代码集合，大部分写于1995-2000年间。
 - DIDRIS.BAS: 一个高水平的俄罗斯方块游戏（原版）
 - NIBBLES.BAS: 微软的贪吃蛇游戏（原版）
 
-## 运行环境
+## Running Environment
 
 - qb64 for Windows/macOS/Linux
 - qb4.5 in dosbox
