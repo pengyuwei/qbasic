@@ -11,6 +11,8 @@ QBasic的代码集合，大部分写于1995-2000年间。
 - Demo
     - menu.bas: 演示了如何开发一个标准的DOS样式的菜单
     - SETUP.BAS: 一个图形界面的安装进度条
+    - SEE.BAS: 一个全屏的空白表单
+    - ANIMENU.BAS: 一个展开菜单的动画
 
 ## Adapted works
 
@@ -35,6 +37,12 @@ QBasic的代码集合，大部分写于1995-2000年间。
 - [FutureBasic](http://www.brilorsoftware.com/fb/pages/home.html)
 - [PureBasic](https://www.purebasic.com/index.php)
 - [gambas](https://gambas.sourceforge.net/en/main.html)
+- [SPIDERBASIC](https://www.spiderbasic.com/)
+- [thinbasic](https://www.thinbasic.com/)
 - [在 macOS 下编译 FreeBasic](https://zhuanlan.zhihu.com/p/611374318)
+- [build FreeBasic on macOS 13.1 with clang](https://github.com/freebasic/fbc/issues/409)
+- [从VB6进阶到PowerBASIC的快速指引](http://www.yfvb.com/thread-6408.htm)
 - https://github.com/QB64Official/qb64
 - https://github.com/Galleondragon/qb64
+- [VisualFreeBasic 5.8.7“雨水”版](http://www.yfvb.com/soft-48.htm)
+- https://retool.com/visual-basic/
