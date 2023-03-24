@@ -1,6 +1,6 @@
 # qbasic
 
-QBasic的代码集合，大部分写于1995-2000年间。
+QBasic的原创代码集合，大部分写于1995-2000年间。
 
 - Game
     - FLY-12.BAS: 双人线下海战游戏辅助工具（玩法来自《714航班》）
@@ -11,6 +11,7 @@ QBasic的代码集合，大部分写于1995-2000年间。
     - P.BAS: 一个锁屏程序，输入/286可解锁
     - CIH.BAS: 放到开机启动里，在CIH病毒发作那天给出提醒
     - CIRCLE2.BAS: 一个圆形光环的时钟
+    - DOSSHELL.BAS: 模拟DOS启动，并且自动随机执行DOS命令
 - Demo
     - menu.bas: 演示了如何开发一个标准的DOS样式的菜单
     - SETUP.BAS: 一个图形界面的安装进度条
@@ -19,10 +20,11 @@ QBasic的代码集合，大部分写于1995-2000年间。
 - Effect
     - BOX.BAS: 用画线的方法模拟3D正方形在旋转
     - SIN.BAS: 正弦曲线
-    - LINESHOW.BAS: 胡乱画的一些线条
-    - TEMP256.BAS: 画一串圆形
     - CAT.BAS: 实现了一个文字抽线淡出效果
     - WMTEXT.BAS: 一个文字效果
+    - DOSC-1.BAS: 一个蓝条上下扫过屏幕的效果
+    - TEMP256.BAS: 画一串圆形
+    - LINESHOW.BAS: 胡乱画的一些线条
 
 ## Adapted works
 
@@ -37,7 +39,7 @@ QBasic的代码集合，大部分写于1995-2000年间。
 
 1. qb64 for Windows/macOS/Linux
 2. qb4.5 in dosbox
-3. qb4.5 + UCDOS + DOS 6.22 in VirtualBOX
+3. qb4.5 + UCDOS 7 + DOS 6.22 in VirtualBOX
 4. qbasic in DOS 6.22
 
 有一些带乱码的源代码是基于UCDOS开发的，在非中文环境会显示乱码，在非UCDOS的中文环境下，文字或者图形会错位。这种文件需要使用上面的环境3来运行。
@@ -58,3 +60,7 @@ QBasic的代码集合，大部分写于1995-2000年间。
 - https://github.com/QB64Official/qb64
 - https://github.com/Galleondragon/qb64
 - https://retool.com/visual-basic/
+- http://www.memcd.com/toyshop/
+- 已经停服： http://quickbasic.126.com
+- 已经停服： http://quickbasic.yeah.net
+- 已经停服： http://hoker.org
