@@ -24,7 +24,6 @@ QBasic的代码集合，大部分写于1995-2000年间。
     - CAT.BAS: 实现了一个文字抽线淡出效果
     - WMTEXT.BAS: 一个文字效果
 
-
 ## Adapted works
 
 这个目录收录了当年从各种渠道找到的basic源代码，一些经过我的魔改，好玩极了。。
@@ -36,10 +35,12 @@ QBasic的代码集合，大部分写于1995-2000年间。
 
 ## Running Environment
 
-- qb64 for Windows/macOS/Linux
-- qb4.5 in dosbox
-- qb4.5 + UCDOS in VirtualBOX
-- qbasic in DOS 6.22
+1. qb64 for Windows/macOS/Linux
+2. qb4.5 in dosbox
+3. qb4.5 + UCDOS + DOS 6.22 in VirtualBOX
+4. qbasic in DOS 6.22
+
+有一些带乱码的源代码是基于UCDOS开发的，在非中文环境会显示乱码，在非UCDOS的中文环境下，文字或者图形会错位。这种文件需要使用上面的环境3来运行。
 
 ## Reference
 
