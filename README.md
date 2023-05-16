@@ -1,4 +1,4 @@
-# qbasic
+# QBasic
 
 QBasic的原创代码集合，大部分写于1995-2000年间。
 
@@ -26,6 +26,7 @@ QBasic的原创代码集合，大部分写于1995-2000年间。
     - TEMP256.BAS: 画一串圆形
     - LINESHOW.BAS: 胡乱画的一些线条
 
+
 ## Adapted works
 
 这个目录收录了当年从各种渠道找到的basic源代码，一些经过我的魔改，好玩极了。。
@@ -37,12 +38,14 @@ QBasic的原创代码集合，大部分写于1995-2000年间。
 
 ## Running Environment
 
+所有代码都是在DOS6.22环境中的调试通过的，目前可以通过如下工具和环境运行：
+
 1. qb64 for Windows/macOS/Linux
 2. qb4.5 in dosbox
 3. qb4.5 + UCDOS 7 + DOS 6.22 in VirtualBOX
 4. qbasic in DOS 6.22
 
-有一些带乱码的源代码是基于UCDOS开发的，在非中文环境会显示乱码，在非UCDOS的中文环境下，文字或者图形会错位。这种文件需要使用上面的环境3来运行。
+有一些带乱码的源代码是基于UCDOS开发的，在非中文环境会显示乱码，在非UCDOS的中文环境下，文字或者图形会错位。这种文件需要使用上面的环境3来运行；由于QB和QBasic并不完全兼容，所以极个别的代码需要去qbasic下也就是上面的环境4来运行。
 
 ## Reference
 
