@@ -17,8 +17,9 @@ QBasic的原创代码集合，大部分写于1995-2000年间。
     - menu.bas: 演示了如何开发一个标准的DOS样式的菜单
     - SETUP.BAS: 一个图形界面的安装进度条
     - SEE.BAS: 一个全屏的空白表单
-    - ANIMENU.BAS: 一个展开菜单的动画
     - BOMB.BAS: 一个爆炸效果
+    - ANIMENU.BAS: 一个展开菜单的动画
+    - AUTM1-10.BAS: 一个SHELL功能菜单的自动选取动画
 - Effect
     - BOX.BAS: 用画线的方法模拟3D正方形在旋转
     - SIN.BAS: 正弦曲线
@@ -27,7 +28,7 @@ QBasic的原创代码集合，大部分写于1995-2000年间。
     - DOSC-1.BAS: 一个蓝条上下扫过屏幕的效果
     - TEMP256.BAS: 画一串圆形
     - LINESHOW.BAS: 胡乱画的一些线条
-
+    - CSHOW.BAS: 对终端中指定范围的文本进行着色的工具，cshow x1,y1-x2,y2,color
 
 ## Mod
 
