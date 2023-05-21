@@ -20,6 +20,7 @@ QBasic的原创代码集合，大部分写于1995-2000年间。
     - BOMB.BAS: 一个爆炸效果
     - ANIMENU.BAS: 一个展开菜单的动画
     - AUTM1-10.BAS: 一个SHELL功能菜单的自动选取动画
+    - FDISK.BAS: 模拟fdisk命令的界面和流程
 - Effect
     - BOX.BAS: 用画线的方法模拟3D正方形在旋转
     - SIN.BAS: 正弦曲线
@@ -51,6 +52,13 @@ QBasic的原创代码集合，大部分写于1995-2000年间。
 4. qbasic in DOS 6.22
 
 有一些带乱码的源代码是基于UCDOS开发的，在非中文环境会显示乱码，在非UCDOS的中文环境下，文字或者图形会错位。这种文件需要使用上面的环境3来运行；由于QB和QBasic并不完全兼容，所以极个别的代码需要去qbasic下也就是上面的环境4来运行。
+
+## Screenshot
+
+| <img src="http://www.memcd.com/pengyuwei/images/1998_casktown.png" width="100%" /> | <img src="http://www.memcd.com/toyshop/ffb/images/big/wm1.jpg" width="100%" /> |  <img src="http://www.memcd.com/toyshop/ffb/images/big/look_main.gif" width="100%" />  |  <img src="http://www.memcd.com/toyshop/ffb/images/big/scr_line.gif" width="100%" />  |  <img src="http://www.memcd.com/toyshop/ffb/images/big/mud_login.gif" width="100%" />  |  <img src="http://www.memcd.com/toyshop/ffb/images/big/MENU1.JPG" width="100%" />  |
+| --- | --- | --- | --- | --- | --- |
+| RPG.BAS | WM.BAS | look_main.BAS    | scr_line.bas  |   mud.bas  | MENU1.BAS  |
+
 
 ## Reference
 
