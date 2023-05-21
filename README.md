@@ -5,7 +5,6 @@ QBasic的原创代码集合，大部分写于1995-2000年间。
 - Game
     - FLY-12.BAS: 双人线下海战游戏辅助工具（玩法来自《714航班》）
     - FACE.BAS: 一个挤眉弄眼的人脸
-    - tflybomb.bas: 一个单人版海战棋
 - Tools
     - LINE.BAS: 模仿Windows的变换线写的变换线屏保
     - WORD5-10.BAS: 指法练习程序
@@ -13,6 +12,7 @@ QBasic的原创代码集合，大部分写于1995-2000年间。
     - CIH.BAS: 放到开机启动里，在CIH病毒发作那天给出提醒
     - CIRCLE2.BAS: 一个圆形光环的时钟
     - DOSSHELL.BAS: 模拟DOS启动，并且自动随机执行DOS命令
+    - FBRUSH.BAS: DOS下的画图工具
 - Demo
     - menu.bas: 演示了如何开发一个标准的DOS样式的菜单
     - SETUP.BAS: 一个图形界面的安装进度条
@@ -35,10 +35,11 @@ QBasic的原创代码集合，大部分写于1995-2000年间。
 这个目录收录了当年从各种渠道找到的basic源代码，一些经过我的魔改，好玩极了。。
 
 - BAN-12.BAS：扔香蕉。基于DOS附带的源代码改版，增加了黑夜场景、爆炸效果和生命力。需要在qbasic下运行
-- SeaBattleChess: 海战棋游戏的改版，增加了一些效果
 - DIDRIS.BAS: 一个高水平的俄罗斯方块游戏
 - NIBBLES.BAS: 微软的贪吃蛇游戏（原版）
 - X.BAS: 一个类似3Wounders的推箱子游戏
+- SeaBattleChess: 海战棋游戏的改版，增加了一些效果
+- tflybomb.bas: 海战棋的人机版本
 
 ## Running Environment
 
