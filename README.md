@@ -13,7 +13,7 @@ QBasic的原创代码集合，大部分写于1995-2000年间。
     - CIRCLE2.BAS: 一个圆形光环的时钟
     - DOSSHELL.BAS: 模拟DOS启动，并且自动随机执行DOS命令
     - FBRUSH.BAS: DOS下的画图工具
-- Demo
+- Lab
     - menu.bas: 演示了如何开发一个标准的DOS样式的菜单
     - SETUP.BAS: 一个图形界面的安装进度条
     - SEE.BAS: 一个全屏的空白表单
