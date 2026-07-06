@@ -55,7 +55,7 @@ QBasic的原创代码集合，大部分写于1995-2000年间。
 
 ## Screenshot
 
-| <img src="http://www.memcd.com/pengyuwei/images/1998_casktown.png" width="100%" /> | <img src="http://www.memcd.com/toyshop/ffb/images/big/wm1.jpg" width="100%" /> |  <img src="http://www.memcd.com/toyshop/ffb/images/big/look_main.gif" width="100%" />  |  <img src="http://www.memcd.com/toyshop/ffb/images/big/scr_line.gif" width="100%" />  |  <img src="http://www.memcd.com/toyshop/ffb/images/big/mud_login.gif" width="100%" />  |  <img src="http://www.memcd.com/toyshop/ffb/images/big/MENU1.JPG" width="100%" />  |
+| <img src="images/1998_casktown.png" width="100%" /> | <img src="images/wm_1.gif" width="100%" /> |  <img src="images/look_main.gif" width="100%" />  |  <img src="images/scr_line.gif" width="100%" />  |  <img src="images/mud_login.gif" width="100%" />  |  <img src="images/menu_1.jpg" width="100%" />  |
 | --- | --- | --- | --- | --- | --- |
 | RPG.BAS | WM.BAS | look_main.BAS    | scr_line.bas  |   mud.bas  | MENU1.BAS  |
 
